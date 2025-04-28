@@ -10,7 +10,6 @@ This repository presents an object detection project utilizing the YOLOv5-L mode
 ## Files
 - `YOLOV5_TrainedModel.ipynb` : Final training results including performance metrics, training curves, and predictions visualization. provided jupyter notebook
 - `README.md` : Project documentation. 
-- `.gitignore` : Ignore unnecessary files like checkpoints, logs, and temporary files. 
 
 ## Key Features
 - Custom YOLOv5-L fine-tuning for recyclable item categories.
